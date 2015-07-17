@@ -1,1 +1,3 @@
 I am the first line of git
+
+now i have second line
