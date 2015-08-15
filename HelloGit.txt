@@ -2,4 +2,4 @@ I am the first line of git
 
 now i have second line
 
-this is the version of masterrrrrrrrrrrrr
+this is the version of masterrrrrrrrrrrrr [conflic resolved]
